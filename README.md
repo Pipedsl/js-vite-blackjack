@@ -25,4 +25,4 @@ Pasos para ejecutar el proyecto:
 
 ### Consideraciones
 
-1. En el juego real el AS "A" vale 1 o 11 dependiendo del jugador, en este juego solo cuenta como 11 por el momento.
+1. En el juego real el AS "A" vale 1 o 11 dependiendo del jugador, en este juego solo cuenta como 11 por el momento
