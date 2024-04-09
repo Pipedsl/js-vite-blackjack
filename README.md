@@ -15,6 +15,7 @@ Pasos para ejecutar el proyecto:
 ### Demo
 
 1. [Juego BlackJack en Netlify](https://blackjackpipedsl-vite-app.netlify.app/)
+2. [Juego BlackJack en GitHub Pages](https://pipedsl.github.io/js-vite-blackjack/)
  
 ### Instrucciones
 
